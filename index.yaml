@@ -1,0 +1,12 @@
+- Icon: A
+  Name: Content Loaders
+  Path: ContentLoaders
+- Icon: B
+  Name: Custom Levels
+  Path: CustomLevels
+- Icon: C
+  Name: Custom Objects
+  Path: CustomObjects
+- Icon: D
+  Name: Custom Characters
+  Path: CustomCharacters

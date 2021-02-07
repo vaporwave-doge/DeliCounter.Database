@@ -1,0 +1,9 @@
+{
+	"Name": "Deli",
+	"VersionNumber": "0.3.0",
+	"Description": "Deli is a modding framework based on BepInEx which provides one standard uniform way of packaging and loading mods containing any number of assets of any type. Originally built for the popular VR firearms sandbox game Hotdogs, Horseshoes & Hand Grenades but theoretically usable under any Unity game with BepInEx.",
+	"ShortDescription": "Universal BepInEx mod loading framework",
+	"Authors": ["nrgill28", "AshHat"],
+	"IconUrl": "https://avatars.githubusercontent.com/u/75508809?s=200&v=4",
+	"SourceUrl": "https://github.com/Deli-Collective/Deli"
+}

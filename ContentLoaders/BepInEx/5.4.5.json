@@ -6,5 +6,6 @@
 	"Authors": ["denikson", "bbepis", "ManlyMarco"],
 	"IconUrl": "https://avatars.githubusercontent.com/u/39589027?s=200&v=4",
 	"SourceUrl": "https://github.com/BepInEx/BepInEx",
-	"DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.5/BepInEx_x64_5.4.5.0.zip"
+	"DownloadUrl": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.5/BepInEx_x64_5.4.5.0.zip",
+	"Dependencies": {}
 }

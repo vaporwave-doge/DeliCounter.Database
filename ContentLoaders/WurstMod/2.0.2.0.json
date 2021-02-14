@@ -12,7 +12,7 @@
 		"move $GAME_DIR\\mods\\WurstMod_2.0.2.0.deli"
 	],
 	"Dependencies": {
-		"Deli.Deli": "0.2.5"
+		"Deli": "0.2.5"
 	},
 	"RemovalPaths": [
 		"CustomLevels",

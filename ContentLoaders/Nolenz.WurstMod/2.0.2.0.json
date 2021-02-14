@@ -1,0 +1,21 @@
+{
+	"Name": "WurstMod",
+	"VersionNumber": "2.0.2",
+	"Description": "WurstMod is a custom level loader for Hot Dogs, Horseshoes & Handgrenades! Custom Take and Hold, sandbox and even more!",
+	"ShortDescription": "Custom level loading framework",
+	"Authors": ["Nolenz", "nrgill28"],
+	"IconUrl": "https://avatars.githubusercontent.com/u/77360536?s=200&v=4",
+	"SourceUrl": "https://github.com/Nolenz/WurstMod",
+	"DownloadUrl": "https://github.com/Nolenz/WurstMod/releases/download/v2.0.2.0/WurstMod.deli",
+	"DownloadFilename": "WurstMod.deli",
+	"InstallationSteps": [
+		"move $GAME_DIR\\mods\\WurstMod_2.0.2.0.deli"
+	],
+	"Dependencies": {
+		"Deli.Deli": "0.2.5"
+	},
+	"RemovalPaths": [
+		"CustomLevels",
+		"mods\\WurstMod_2.0.2.0.deli"
+	]
+}

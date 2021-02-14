@@ -16,6 +16,6 @@
 		"$GAME_DIR\\BepInEx",
 		"$GAME_DIR\\changelog.txt",
 		"$GAME_DIR\\doorstop_config.ini",
-		"$GAME_DIR\\winhttp.dll",
+		"$GAME_DIR\\winhttp.dll"
 	}
 }

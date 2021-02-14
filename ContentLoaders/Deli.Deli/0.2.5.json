@@ -16,6 +16,6 @@
 	},
 	"RemovalPaths": {
 		"$GAME_DIR\\BepInEx\\patchers\\Deli",
-		"$GAME_DIR\\BepInEx\\plugins\\Deli",
+		"$GAME_DIR\\BepInEx\\plugins\\Deli"
 	}
 }

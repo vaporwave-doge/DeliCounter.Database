@@ -18,6 +18,6 @@
 		"BepInEx\\patchers\\Deli",
 		"BepInEx\\plugins\\Deli",
 		"mods\\Deli.Core.deli",
-		"Deli.MonoMod.deli"
+		"mods\\Deli.MonoMod.deli"
 	]
 }

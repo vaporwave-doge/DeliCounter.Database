@@ -12,10 +12,10 @@
 		"extract $GAME_DIR"
 	],
 	"Dependencies": {},
-	"RemovalPaths": {
+	"RemovalPaths": [
 		"$GAME_DIR\\BepInEx",
 		"$GAME_DIR\\changelog.txt",
 		"$GAME_DIR\\doorstop_config.ini",
 		"$GAME_DIR\\winhttp.dll"
-	}
+	]
 }

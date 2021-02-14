@@ -14,8 +14,8 @@
 	"Dependencies": {
 		"BepInEx": "5.4.5"
 	},
-	"RemovalPaths": {
+	"RemovalPaths": [
 		"$GAME_DIR\\BepInEx\\patchers\\Deli",
 		"$GAME_DIR\\BepInEx\\plugins\\Deli"
-	}
+	]
 }

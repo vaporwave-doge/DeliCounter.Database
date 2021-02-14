@@ -15,7 +15,9 @@
 		"BepInEx": "5.4.5"
 	},
 	"RemovalPaths": [
-		"$GAME_DIR\\BepInEx\\patchers\\Deli",
-		"$GAME_DIR\\BepInEx\\plugins\\Deli"
+		"BepInEx\\patchers\\Deli",
+		"BepInEx\\plugins\\Deli",
+		"mods\\Deli.Core.deli",
+		"Deli.MonoMod.deli"
 	]
 }

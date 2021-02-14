@@ -13,9 +13,9 @@
 	],
 	"Dependencies": {},
 	"RemovalPaths": [
-		"$GAME_DIR\\BepInEx",
-		"$GAME_DIR\\changelog.txt",
-		"$GAME_DIR\\doorstop_config.ini",
-		"$GAME_DIR\\winhttp.dll"
+		"BepInEx",
+		"changelog.txt",
+		"doorstop_config.ini",
+		"winhttp.dll"
 	]
 }

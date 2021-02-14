@@ -8,6 +8,9 @@
 	"SourceUrl": "https://github.com/Deli-Collective/Deli",
 	"DownloadUrl": "https://github.com/Deli-Collective/Deli/releases/download/v0.2.5/Deli-v0.2.5.zip",
 	"DownloadFilename": "deli-v0.2.5.zip",
+		"InstallationSteps": [
+		"extract $GAME_DIR"
+	],
 	"Dependencies": {
 		"BepInEx": "5.4.5"
 	}

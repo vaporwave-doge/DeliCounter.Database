@@ -7,7 +7,6 @@
 	"IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
 	"SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker",
 	"DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.2/TakeAndHoldTweaker.Unzip.Me.zip",
-	"DownloadFilename": "TakeAndHoldTweaker.zip",
 	"InstallationSteps": [
 		"extract $GAME_DIR"
 	],

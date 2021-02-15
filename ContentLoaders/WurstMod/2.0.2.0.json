@@ -7,7 +7,6 @@
 	"IconUrl": "https://avatars.githubusercontent.com/u/77360536?s=200&v=4",
 	"SourceUrl": "https://github.com/Nolenz/WurstMod",
 	"DownloadUrl": "https://github.com/Nolenz/WurstMod/releases/download/v2.0.2.0/WurstMod.deli",
-	"DownloadFilename": "WurstMod.deli",
 	"InstallationSteps": [
 		"move $GAME_DIR\\mods\\WurstMod_2.0.2.0.deli"
 	],

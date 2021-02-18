@@ -11,6 +11,7 @@
 		"move $GAME_DIR\\mods\\WurstMod_2.0.2.0.deli"
 	],
 	"Dependencies": {
+		"BepInEx": "5.4.5",
 		"Deli": "0.2.5"
 	},
 	"RemovalPaths": [

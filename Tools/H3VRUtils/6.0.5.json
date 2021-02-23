@@ -12,7 +12,7 @@
 	],
 	"Dependencies": {
 		"BepInEx": "5.4.5",
-		"Sideloader": ""
+		"Sideloader": "0.3.3"
 	},
 	"RemovalPaths": [
 		"Mods\\H3VRUtils.hotmod"

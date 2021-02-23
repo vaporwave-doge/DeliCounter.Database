@@ -12,7 +12,7 @@
 	],
 	"Dependencies": {
 		"BepInEx": "5.4.5",
-		"BepInEx.ConfigurationManager": ""
+		"BepInEx.ConfigurationManager": "16.1.0"
 	},
 	"RemovalPaths": [
 		"BepInEx\\Plugins\\Meatyceiver2.dll"

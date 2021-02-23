@@ -1,0 +1,20 @@
+{
+	"Name": "Meatyceiver 2",
+	"VersionNumber": "0.3.2",
+	"Description": "Jams, jams, oh my! If you hated Receiver 2, you'll absolutely hate Meatyceiver 2 even more. Meatyceiver 2 simulates an array of several firearm failures on all weapons of H3VR. To change settings while in game, make sure Configuration Manager is installed for BepInEx and press F1. By default, the average firearm will have a failure 0.75% of the time. You can adjust this with the general multiplier. Current failures: Ammunition Failures, Light Primer Strike. Firearm Failures: Failure to Feed, Failure to Extract. Broken Firearm Failures: Hammer follow, Slam fire, Failure To Lock Slide.",
+	"ShortDescription": "Gun jamming and malfunctions",
+	"Authors": ["Potatoes", "Frityet"],
+	"IconUrl": "https://i.imgur.com/tcJDzP0.png",
+	"SourceUrl": "https://bonetome.com/h3vr/weapons/171/",
+	"DownloadUrl": "https://bonetome.com/download.php?file=ZDMxZjYzMTgxYTg5OTdlYiszNjUrODk0",
+	"InstallationSteps": [
+		"extract $GAME_DIR\\BepInEx\\Plugins"
+	],
+	"Dependencies": {
+		"BepInEx": "5.4.5",
+		"BepInEx.ConfigurationManager": ""
+	},
+	"RemovalPaths": [
+		"BepInEx\\Plugins\\Meatyceiver2.dll"
+	]
+}

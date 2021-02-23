@@ -1,0 +1,21 @@
+{
+	"Name": "Sideloader",
+	"VersionNumber": "0.3.3",
+	"Description": "Asset replacer for H3VR",
+	"ShortDescription": "Asset replacer for H3VR",
+	"Authors": ["denikson"],
+	"IconUrl": "https://avatars.githubusercontent.com/u/13762037?s=460&u=262eaf76c51fa6a30485a30c7be17393968bf250&v=4",
+	"SourceUrl": "https://github.com/ghorsington/H3VR.Sideloader",
+	"DownloadUrl": "https://github.com/ghorsington/H3VR.Sideloader/releases/download/v0.3.3/H3VR.Sideloader_v0.3.3.zip",
+	"InstallationSteps": [
+		"extract $GAME_DIR"
+	],
+	"Dependencies": {
+		"BepInEx": "5.4.5",
+		"BepInEx.MonoMod": "1.0.0",
+		"ResourceRedirector": "1.1.3"
+	},
+	"RemovalPaths": [
+		"BepInEx\\Plugins\\H3VR.Sideloader.dll"
+	]
+}

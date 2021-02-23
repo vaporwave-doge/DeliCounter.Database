@@ -1,0 +1,20 @@
+{
+	"Name": "BepInEx MonoMod",
+	"VersionNumber": "1.0.0",
+	"Description": "MonoMod assembly loader for BepInEx",
+	"ShortDescription": "MonoMod assembly loader for BepInEx",
+	"Authors": ["bbepis", "denikson"],
+	"IconUrl": "https://avatars.githubusercontent.com/u/39589027?s=200&v=4",
+	"SourceUrl": "https://github.com/BepInEx/BepInEx.MonoMod.Loader/",
+	"DownloadUrl": "https://github.com/BepInEx/BepInEx.MonoMod.Loader/releases/download/v1.0.0.0/BepInEx.MonoMod.Loader_1.0.0.0.zip",
+	"InstallationSteps": [
+		"extract $GAME_DIR"
+	],
+	"Dependencies": {
+		"BepInEx": "5.4.5"
+	},
+	"RemovalPaths": [
+		"BepInEx\\Core\\MonoMod.dll",
+		"BepInEx\\Patchers\\BepInEx.MonoMod.Loader.dll"
+	]
+}

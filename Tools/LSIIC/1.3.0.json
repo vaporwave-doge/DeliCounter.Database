@@ -12,10 +12,5 @@
 	],
 	"Dependencies": {
 		"Deli": "0.2.5"
-	},
-	"RemovalPaths": [
-		"VirtualObjects",
-		"Mods\\LSIIC.h3mod",
-		"BepInEx\\MonoMod\\LSIIC"
-	]
+	}
 }

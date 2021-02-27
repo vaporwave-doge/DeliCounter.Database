@@ -10,11 +10,5 @@
 	"InstallationSteps": [
 		"extract $GAME_DIR"
 	],
-	"Dependencies": {},
-	"RemovalPaths": [
-		"BepInEx",
-		"changelog.txt",
-		"doorstop_config.ini",
-		"winhttp.dll"
-	]
+	"Dependencies": {}
 }

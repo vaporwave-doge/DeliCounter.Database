@@ -12,8 +12,5 @@
 	],
 	"Dependencies": {
 		"BepInEx": "5.4.5"
-	},
-	"RemovalPaths": [
-		"BepInEx\\Plugins\\XUnity.ResourceRedirector"
-	]
+	}
 }

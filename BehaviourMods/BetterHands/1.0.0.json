@@ -12,8 +12,5 @@
 	],
 	"Dependencies": {
 		"Deli": "0.2.5"
-	},
-	"RemovalPaths": [
-		"mods\\BetterHands_1.0.0.deli"
-	]
+	}
 }

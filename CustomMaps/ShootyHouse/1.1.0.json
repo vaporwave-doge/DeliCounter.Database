@@ -12,8 +12,5 @@
 	],
 	"Dependencies": {
 		"WurstMod": "2.0.2"
-	},
-	"RemovalPaths": [
-		"Mods\\ShootyHouse.deli"
-	]
+	}
 }

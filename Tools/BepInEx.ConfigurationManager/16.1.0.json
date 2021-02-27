@@ -12,9 +12,5 @@
 	],
 	"Dependencies": {
 		"BepInEx": "5.4.5"
-	},
-	"RemovalPaths": [
-		"BepInEx\\Plugins\\ConfigurationManager.dll",
-		"BepInEx\\Plugins\\ConfigurationManager.xml"
-	]
+	}
 }

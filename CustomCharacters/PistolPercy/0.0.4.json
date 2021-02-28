@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Pistol Percy",
+  "VersionNumber": "0.0.4",
+  "Description": "Its Pistols and Machine Pistols only! Attachments are discounted and sosigs are numerous.\nCharacter will appear in the standard/default category.",
+  "ShortDescription": "Its Pistols and Machine Pistols only!",
+  "Authors": [
+    "Stark"
+  ],
+  "IconUrl": "https://i.imgur.com/qjsRs3w.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/243/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YmZlZDkzYWM4ZDZhMDE0MSszODErMTExMA==",
+  "InstallationSteps": [
+    "move mods/PistolPercy.deli"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0"
+  }
+}

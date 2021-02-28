@@ -1,0 +1,19 @@
+﻿{
+  "Name": "Great War Gunther",
+  "VersionNumber": "1.0.9",
+  "Description": "Hello everyone! This is Great War Gunther, my first character. It's a WWI themed character with progression based off of GI Grayson. Please make sure you are using the latest version of TnHTweaker and that you are on the alpha branch. Remember to report any bugs or other issues to me, as well as give feedback! One last thing, Limited ammo is very hard and endless hasn't been tested fully, so report any issues there.",
+  "ShortDescription": "WWI themed character",
+  "Authors": [
+    "VolkswagenBeatle"
+  ],
+  "IconUrl": "https://i.imgur.com/7topfDK.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/163/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OTE5NDUyYWJhMTRiMGRmYSszODErODYy",
+  "InstallationSteps": [
+    "move mods/GreatWarGunther.deli"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0",
+    "DoomboxsGermanUniforms": "^1.1.1"
+  }
+}

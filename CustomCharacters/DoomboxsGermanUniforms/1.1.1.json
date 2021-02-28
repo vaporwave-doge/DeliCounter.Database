@@ -1,0 +1,19 @@
+﻿{
+  "Name": "Doombox's German Uniforms",
+  "VersionNumber": "1.1.1",
+  "Description": "Imperial German uniforms for Sosigs!",
+  "ShortDescription": "Imperial German uniforms for Sosigs!",
+  "Authors": [
+    "Doombox"
+  ],
+  "IconUrl": "https://i.imgur.com/34BBjM1.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/192/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5YyszODErOTc0",
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0",
+    "LSIIC": "^1.3.0"
+  }
+}

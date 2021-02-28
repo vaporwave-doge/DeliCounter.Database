@@ -1,0 +1,18 @@
+﻿{
+  "Name": "B.J. Blazkomeat",
+  "VersionNumber": "1.0.0",
+  "Description": "A Wolfenstein 3D inspired custom character for TnH, use a limited arsenal based on the 1992 Dos Game as you dodge patrolling castle guards.\nIf balancing is bad or there are bugs let me know, I plan to make some changes in the future when I have free time.",
+  "ShortDescription": "Wolfenstein 3D inspired Take and Hold character",
+  "Authors": [
+    "Sam Harper"
+  ],
+  "IconUrl": "https://i.imgur.com/lGu4SSz.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/203/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzFjYzJlZGVjMDllNzExNCszODErMTAyOA==",
+  "InstallationSteps": [
+    "move mods/BJBlazkomeat.deli"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0"
+  }
+}

@@ -1,5 +1,5 @@
 {
-	"LatestApplicationVersion": "0.1.5",
-	"UpdateText": "- Added application version info to the database\n- Fix for dark mode\n- Download progress now shows total MB downloaded",
-	"ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.1.5"
+	"LatestApplicationVersion": "0.1.7",
+	"UpdateText": "- Much better version management",
+	"ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.1.7"
 }

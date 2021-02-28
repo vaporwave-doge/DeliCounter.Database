@@ -11,6 +11,6 @@
 		"move mods\\BetterHands_1.0.0.deli"
 	],
 	"Dependencies": {
-		"Deli": "0.2.5"
+		"Deli": "~0.2.5"
 	}
 }

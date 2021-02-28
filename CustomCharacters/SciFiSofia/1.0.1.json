@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Sci-Fi Sofia",
+  "VersionNumber": "1.0.1",
+  "Description": "Sci-Fi Sofia wields futuristic weapons! All sci-fi guns (vanilla and custom) appear in her weapon pools. The weapon pools also have many real guns that have been used in science fiction works or that look futuristic. Enemy progression is currently same as Operator Ori, but will be tweaked later on.\nIf you have a cool sci-fi vault creation and want it included, send me the vault file on the H3 Homebrew Discord (preferably the json vault file that TNHTweaker generates, and with no magazine in the gun).",
+  "ShortDescription": "Sci-Fi themed Take and Hold Character",
+  "Authors": [
+    "SirPotatos"
+  ],
+  "IconUrl": "https://i.imgur.com/O85TNuM.png",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/197/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZjNmZDcwNTRhZDVjYjI5YSszNjUrOTk3",
+  "InstallationSteps": [
+    "move mods/SciFiSofia.deli"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0"
+  }
+}

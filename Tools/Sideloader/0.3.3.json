@@ -11,8 +11,8 @@
 		"extract $GAME_DIR"
 	],
 	"Dependencies": {
-		"BepInEx": "5.4.5",
-		"BepInEx.MonoMod": "1.0.0",
-		"ResourceRedirector": "1.1.3"
+		"BepInEx": "=5.4.5",
+		"BepInEx.MonoMod": "^1.0.0",
+		"ResourceRedirector": "^1.1.3"
 	}
 }

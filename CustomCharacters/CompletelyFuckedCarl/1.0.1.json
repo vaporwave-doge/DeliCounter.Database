@@ -13,6 +13,6 @@
     "extract $GAME_DIR/Mods"
   ],
   "Dependencies": {
-    "TNNTweaker": "^1.4.0"
+    "TNHTweaker": "^1.4.0"
   }
 }

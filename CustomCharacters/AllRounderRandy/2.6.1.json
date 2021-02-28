@@ -10,7 +10,7 @@
   "SourceUrl": "https://bonetome.com/h3vr/characters/161/",
   "DownloadUrl": "https://cdn.discordapp.com/attachments/473863690534387712/815620061061578752/All_Rounder_Randy_V2.6.1_TEST_1.zip",
   "InstallationSteps": [
-    "extract $GAME_FOLDER"
+    "extract $GAME_DIR"
   ],
   "Dependencies": {
     "TNHTweaker": "^1.4.0"

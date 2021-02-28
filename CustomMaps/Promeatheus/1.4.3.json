@@ -11,6 +11,6 @@
 		"extract $GAME_DIR\\Mods"
 	],
 	"Dependencies": {
-		"WurstMod": "2.0.2"
+		"WurstMod": "^2.0.2"
 	}
 }

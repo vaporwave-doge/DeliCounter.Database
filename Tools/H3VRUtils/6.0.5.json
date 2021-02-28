@@ -11,7 +11,7 @@
 		"extract $GAME_DIR\\Mods"
 	],
 	"Dependencies": {
-		"BepInEx": "5.4.5",
-		"Sideloader": "0.3.3"
+		"BepInEx": "^5.4.5",
+		"Sideloader": "~0.3.3"
 	}
 }

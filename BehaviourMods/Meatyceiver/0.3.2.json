@@ -11,7 +11,7 @@
 		"extract $GAME_DIR\\BepInEx\\Plugins"
 	],
 	"Dependencies": {
-		"BepInEx": "5.4.5",
-		"BepInEx.ConfigurationManager": "16.1.0"
+		"BepInEx": "^5.4.5",
+		"BepInEx.ConfigurationManager": "*"
 	}
 }

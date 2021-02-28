@@ -11,6 +11,6 @@
 		"extract $GAME_DIR"
 	],
 	"Dependencies": {
-		"Deli": "0.2.5"
+		"Deli": "~0.2.5"
 	}
 }

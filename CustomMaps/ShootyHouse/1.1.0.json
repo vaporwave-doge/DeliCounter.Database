@@ -11,6 +11,6 @@
 		"move Mods\\ShootyHouse.deli"
 	],
 	"Dependencies": {
-		"WurstMod": "2.0.2"
+		"WurstMod": "^2.0.2"
 	}
 }

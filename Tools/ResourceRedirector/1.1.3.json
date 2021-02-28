@@ -11,6 +11,6 @@
 		"extract $GAME_DIR"
 	],
 	"Dependencies": {
-		"BepInEx": "5.4.5"
+		"BepInEx": "^5.4.5"
 	}
 }

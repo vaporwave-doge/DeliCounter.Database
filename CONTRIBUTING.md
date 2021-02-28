@@ -1,5 +1,7 @@
-## How to contribute your mod to this database:
+# How to contribute your mod to this database:
 1. In the top right, select "Fork" and fork the repository to your own account. After a bit you will be redirected to your fork.
+![Figure 1](https://i.imgur.com/mAirFMb.png)
+
 2. Click into the category folder that you want to place your mod in.
 3. In the top right, click "Add file" then select "Create new file".
 4. Type your mod's GUID (unique identifier, generally `SomethingLikeThis` using only alpha-numeric characters) then a slash (`/`), then the version number of your mod follosed by `.json`.

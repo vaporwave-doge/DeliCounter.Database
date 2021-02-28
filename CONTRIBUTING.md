@@ -8,7 +8,7 @@
 ### 3. In the top right, click "Add file" then select "Create new file".
 ![Figure 3](https://i.imgur.com/CFX5QYm.png)
 
-### 4. Type your mod's GUID (unique identifier, generally `SomethingLikeThis` using only alpha-numeric characters) then a slash (`/`), then the version number of your mod follosed by `.json`. Example: `MyExampleMod/0.5.2.json`
+### 4. Type your mod's GUID (unique identifier, generally `SomethingLikeThis` using only alpha-numeric characters) then a slash (`/`), then the version number of your mod followed by `.json`. Example: `MyExampleMod/0.5.2.json`
 ![Figure 4](https://i.imgur.com/9drVvYu.png)
 
 ### 5. Copy the template mod entry from below and paste it into the editing area. Proceed to fill out all the fields, using other existing mods as a reference if needed. More information on the install steps and dependencies can be found below too.

@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Comrade Kolbasa",
+  "VersionNumber": "1.4.0",
+  "Description": "A character which can only use russian and czech weaponry",
+  "ShortDescription": "A character which can only use russian and czech weaponry",
+  "Authors": [
+    "devyndamonster"
+  ],
+  "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
+  "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
+  "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/ComradeKolbasa.zip",
+  "InstallationSteps": [
+    "move mods/ComradeKolbasa.deli"
+  ],
+  "Dependencies": {
+    "TNHTweaker": "^1.4.0"
+  }
+}

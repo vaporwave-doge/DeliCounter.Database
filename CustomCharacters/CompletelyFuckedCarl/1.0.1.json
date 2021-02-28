@@ -10,7 +10,7 @@
   "SourceUrl": "https://bonetome.com/h3vr/characters/199/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYyszNjUrMTAwNQ==",
   "InstallationSteps": [
-    "extract $GAME_DIR/Mods"
+    "move Mods/CompletelyFuckedCarl.deli"
   ],
   "Dependencies": {
     "TNHTweaker": "^1.4.0"

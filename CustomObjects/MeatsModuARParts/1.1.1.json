@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Meat's ModulAR Parts",
+  "VersionNumber": "1.1.1",
+  "Description": "Welcome to Meat's Massive ModulAR Pack! This meaty pack expands on Kamikaze Fox's ModulAR platform with countless additional items; Receivers, Handguards, Stocks, Pistolgrips, this has it all. Please install Kamikaze's ModulAR for the base content like barrels.\n\nReceivers and Pistolgrips can be found under Pistol - Lever Action Handgun\nHandguards and grips are found under Attachments - Foregrips\nStocks are found under Attachments - Stocks",
+  "ShortDescription": "ModulAR expansion pack",
+  "Authors": [
+    "Meat_banono"
+  ],
+  "IconUrl": "https://i.imgur.com/CSgjOcX.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/157/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDU1MzQwZmVkOTA4YmYzYyszODErODQ3",
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

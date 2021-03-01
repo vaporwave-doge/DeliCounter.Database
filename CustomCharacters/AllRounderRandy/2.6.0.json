@@ -10,7 +10,7 @@
   "SourceUrl": "https://bonetome.com/h3vr/characters/161/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZDA4ZjhlOWU3NjczYjE5MiszODErODYw",
   "InstallationSteps": [
-    "extract $GAME_FOLDER"
+    "extract $GAME_DIR"
   ],
   "Dependencies": {
     "TNHTweaker": "^1.4.0"

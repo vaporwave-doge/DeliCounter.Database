@@ -1,0 +1,18 @@
+﻿{
+  "Name": "ModulAR",
+  "VersionNumber": "1.0.1",
+  "Description": "Build your own AR how you want it!\n\nYou will find all the parts in \nPistol > Lever Action\n\nThis mod features a pack with :\n\nTwo AR Receivers in 5.56mm and 9mm\nMultiple barrel lengths for both 5.56mm and 9mm\nRailed and front post sight gas ports for those barrels\nThree hand guards\nA fixed and collapsible stock\nTwo styles of pistol grips usable as picatinny attachments",
+  "ShortDescription": "Build your own AR how you want it!",
+  "Authors": [
+    "KamikazeF0X"
+  ],
+  "IconUrl": "https://i.imgur.com/d2J5dSF.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/159/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MjgxMDkxOThkYTE0Mjg4MCszODErODUw",
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

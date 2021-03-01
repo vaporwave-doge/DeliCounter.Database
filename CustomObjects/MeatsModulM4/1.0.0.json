@@ -1,0 +1,18 @@
+﻿{
+  "Name": "Meat's ModulM4",
+  "VersionNumber": "1.0.0",
+  "Description": "This is the next level of modularity, the ModulM4!! Complete control over what lower receiver, charging handle, and upper receiver you want in your M4. As always, Kamikaze's ModulAR is required for barrels and my ARParts mod for more AR parts.\n\nIncluded in this mod are:\nM4 and ADAR (semi auto only) lower receivers\n4 Upper Heceivers\n5 Charging Handles",
+  "ShortDescription": "Modular M4 weapon pack",
+  "Authors": [
+    "Meat_banono"
+  ],
+  "IconUrl": "https://i.imgur.com/tACZYlq.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/188/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MGI3M2Y4ZGUwMjM5OWI2NyszODErOTYw",
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

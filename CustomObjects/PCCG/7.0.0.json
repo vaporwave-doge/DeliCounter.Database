@@ -1,0 +1,19 @@
+{
+  "Name": "Potatoes' Custom Guns",
+  "VersionNumber": "7.2.0",
+  "Description": "Potatoes' Compiled Custom Guns, AKA PCCG, is a massive mod comprising of several dozen firearms made by Potatoes. The current list stands at (including variants):\n28 pistols,\n10 shotguns,\n11 SMGs,\n27 rifles,\n8 MGs,\nand two explosive devices.",
+  "ShortDescription": "Compiled custom gun collection",
+  "Authors": [
+    "Potatoes"
+  ],
+  "IconUrl": "https://i.imgur.com/hzGU6x2.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/142/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NGFmYTMxOWRjNmEwMTdhMSszODErNzUw",
+  "InstallationSteps": [
+    "extract $GAME_DIR/VirtualObjects"
+  ],
+  "Dependencies": {
+    "LSIIC": "^1.3.0",
+    "H3VRUtils": "^6.0.5"
+  }
+}

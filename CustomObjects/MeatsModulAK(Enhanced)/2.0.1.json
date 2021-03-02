@@ -1,0 +1,15 @@
+{
+  "Name": "Meat's ModulAK (Enhanced Edition)",
+  "VersionNumber": "2.0.1",
+  "Description": "PLEASE DELETE YOUR OLD AKPARTS AND MODULPP FOLDERS FROM VIRTUAL OBJECTS IF YOU ARE UPDATING\r\n\r\nTHIS VERSION OF THE MOD INTRODUCES SIMULATED MAG LATCH BEHAVIOUR: TO REMOVE A MAGAZINE YOU MUST GRAB AND PRESS DOWN ON YOUR TOUCHPAD OR THUMBSTICK TO RELEASE THE LATCH\r\n\r\n\r\nModulAK steels its way through the tundra and winter of Russia to find its way back to Bonetome, bigger, badder, and stronger then ever. Featuring a changelog literally too long to post, this mod has functionally been rebuilt from the bottom up. \r\n\r\nIncluded in this re-release are:\r\nRECEIVERS\r\n-AKM              Assault Rifles\r\n-AK74N            Assault Rifles\r\n-AK101            Assault Rifles\r\n-AK102            Assault Rifles\r\n-AK103            Assault Rifles\r\n-AK104            Assault Rifles\r\n-AK105            Assault Rifles\r\n-AKS74UN          Carbines\r\n-PP19 Vityaz      SMGs\r\n-Saiga 9 Carbine  SMGS\r\n\r\n\r\nATTACHMENTS\r\n-Literally over 100 different attachments\r\n-Please watch the tutorial to find them\r\n\r\nMAGAZINES\r\n-Every AK magazine from Meat's Mags has been retextured and included in this mod (still compatible, dont go deleting Meat's Mags)\r\n-Added several new magazines in addition, located at the end of the Assault Rifles category\r\n\r\nIf you have any questions, please feel free to ping me, @Meat_banono in either the mods-general section of the H3VR discord or in the general help channel of the H3VR Homebrew Server\r\n\r\n\r\n\r\nI want to thank Nikpo for some excellent FDE retextures, Jayyden for the amazing infographic panels, Andrew_FTW for the brilliantly soviet Icons, all of my beta testers, and especially the Escape from Tarkov team, whose models and textures I truly have unending admiration of. I hope you will too after some up close time with these weapons. Thank you for downloading this mod!",
+  "ShortDescription": "Modular AK Weapon Pack",
+  "Authors": ["Meat Banono", "Nikpo", "Jayyden", "Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/2BhLTcy.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/342/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzI4YTE3NTI0MjgzMGQ5MysrMTM4MQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "H3VRUtils": "^6.0.5",
+    "LSIIC": "^1.3.0"
+  }
+}

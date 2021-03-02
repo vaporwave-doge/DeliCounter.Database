@@ -20,30 +20,29 @@
 
 ```JSON
 {
-	"Name": "Your Mod Name",
-	"VersionNumber": "1.0.0",
-	"Description": "Your mod's description. This appears on the sidebar!",
-	"ShortDescription": "A short description that appears on the mod's card in the list",
-	"Authors": ["Your name", "Maybe another author"],
-	"IconUrl": "URL to the icon you want to use for your mod",
-	"SourceUrl": "URL to a GitHub or BoneTome page",
-	"DownloadUrl": "Download URL of your mod",
-	"InstallationSteps": [
-		"extract $GAME_DIR"
-	],
-	"Dependencies": {
-		"BepInEx": "^5.4.5",
-		"Deli": "~0.2.5"
-	}
+  "Name": "Your Mod Name",
+  "VersionNumber": "1.0.0",
+  "Description": "Long description of your mod. Shows on the sidebar when this mod is selected",
+  "ShortDescription": "Short description of your mod. Shows under your mod's name in the mod list.",
+  "Authors": ["Author 1", "Author 2"],
+  "IconUrl": "Link to the icon you want to use. Includes the file extension",
+  "SourceUrl": "Link to the GitHub / BoneTome page the mod is sourced from",
+  "DownloadUrl": "Download URL for the mod",
+  "InstallationSteps": ["extract $GAME_DIR"],
+  "Dependencies": {
+    "Deli": "^0.2.5"
+  }
 }
+
 ```
 
 Install Steps:
+* `extract [location]`: extracts the downloaded archive to the folder specified. Example: `extract $GAME_DIR/VirtualObjects`
+* `move [location]`: Moves the downloaded file to the specified location. Example: `move mods/MyMod_0.2.5.deli`
 
-- `extract [location]`: extracts the downloaded archive to the folder specified. Example: `extract $GAME_DIR/VirtualObjects`
-- `move [location]`: Moves the downloaded file to the specified location. Example: `move mods/MyMod_0.2.5.deli`
-
-Dependencies are standard semantic version ranges. Place the GUID of the mod you need to install before yours on the left and then the required version number on the right.
+Version numbers and dependencies:
+* You can mark this mod's version as a beta by adding a `-` after the version number and then the beta name. e.g. `1.1.5-beta2`.
+* Dependencies are standard semantic version ranges. Place the GUID of the mod you need to install before yours on the left and then the required version number on the right.
 Generally you want to prefix the version number with a `^`.
 More complex rules can be found here: https://devhints.io/semver
 

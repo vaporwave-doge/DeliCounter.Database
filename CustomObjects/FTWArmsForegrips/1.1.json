@@ -1,0 +1,13 @@
+  "Name": "FTW Arms Foregrips",
+  "VersionNumber": "1.1",
+  "Description": "A nice collection of some new foregrips! And for those who have been modding for a while will notice, the CQR is back!\r\n\r\nIncludes the:\r\n-BCM (Black and Tan)\r\n-Cobra AFG\r\n-CQR\r\n-RK1\r\n-RK2\r\n-RK6\r\n-TD",
+  "ShortDescription": "Foregrips pack",
+  "Authors": ["Andrew_FTW", "Meat_banono"],
+  "IconUrl": "https://i.imgur.com/rN0ftUm.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/242/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsrMTEwOQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "FOXArms Muzzles",
+  "VersionNumber": "0.7.3",
+  "Description": "Thanks to Potatoes , AndrewFT, @Warlord Soulbro of the Melon and Meatbanono , I present..\r\n\r\nFOXARMS Attachments (Muzzles and Supressors)\r\nVersion 0.7.3\r\n\r\n\r\nMore muzzles and supressors are coming! Don't think I'm done yet!\r\n\r\nCurrently added\r\n- Gemtech One (Scales)\r\n- Rotor 43 (Scales)\r\n- Titan Muzzle Combo (Muzzle and Supressor, Non-scale)\r\n- Daniel Defence Combo (Muzzle and Supressor, Non-scale)\r\n- Colt AR15 Flash-hider (Non-scale)\r\n- GK-02 Shotgun Muzzle (Non-Scale)\r\n- Fischer Glock Supressor (Has an attachment point)\r\n- Alpha Dog (Has an attachment point)\r\n- Vendetta Muzzle Brake\r\n- CQB Muzzle Brake\r\n- Titanium Compensator\r\n- SRD Supressor",
+  "ShortDescription": "Muzzle devices pack",
+  "Authors": ["woofwoof4723", "Meat_banono"],
+  "IconUrl": "https://i.imgur.com/95yBxOV.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/273/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSsrMTIzNQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

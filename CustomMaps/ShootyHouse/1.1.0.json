@@ -1,16 +1,14 @@
 {
-	"Name": "Shooty House",
-	"VersionNumber": "1.1.0",
-	"Description": "Shoot house! Clear the rooms as fast as possible and go for a high score! Compare your scores against others' on this spreadsheet! https://docs.google.com/spreadsheets/d/1uJ5WMFAxVDIHDB3rCt0gvPeVDmo5yK6BZwkjE0WcQew/edit?usp=sharing",
-	"ShortDescription": "Shoot house map for H3VR",
-	"Authors": ["SirPotatos", "nrgill28"],
-	"IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
-	"SourceUrl": "https://bonetome.com/h3vr/map/181/",
-	"DownloadUrl": "https://bonetome.com/download.php?file=MmI5NzlkOTRkZTI3MzUyYyszODErOTQw",
-	"InstallationSteps": [
-		"move Mods\\ShootyHouse.deli"
-	],
-	"Dependencies": {
-		"WurstMod": "^2.0.2"
-	}
+  "Name": "Shooty House",
+  "VersionNumber": "1.1.0",
+  "Description": "Shoot house! Clear the rooms as fast as possible and go for a high score! Compare your scores against others' on this spreadsheet! https://docs.google.com/spreadsheets/d/1uJ5WMFAxVDIHDB3rCt0gvPeVDmo5yK6BZwkjE0WcQew/edit?usp=sharing",
+  "ShortDescription": "Shoot house map for H3VR",
+  "Authors": ["SirPotatos", "nrgill28"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/map/181/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MmI5NzlkOTRkZTI3MzUyYyszODErOTQw",
+  "InstallationSteps": ["move Mods\\ShootyHouse.deli"],
+  "Dependencies": {
+    "WurstMod": "^2.0.2"
+  }
 }

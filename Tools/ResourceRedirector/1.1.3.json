@@ -1,16 +1,14 @@
 {
-	"Name": "XUnity Resource Redirector",
-	"VersionNumber": "1.1.3",
-	"Description": "Library for replacing game assets on the fly",
-	"ShortDescription": "Library for replacing game assets on the fly",
-	"Authors": ["bbepis", "Vimek", "Jiwon-Park", "hype5"],
-	"IconUrl": "https://avatars.githubusercontent.com/u/36346617?s=460&u=bd36be2406084c8c92ea0b5cd49642b44562b655&v=4",
-	"SourceUrl": "https://github.com/bbepis/XUnity.AutoTranslator",
-	"DownloadUrl": "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v4.14.0/XUnity.ResourceRedirector-BepIn-5x-1.1.3.zip",
-	"InstallationSteps": [
-		"extract $GAME_DIR"
-	],
-	"Dependencies": {
-		"BepInEx": "^5.4.5"
-	}
+  "Name": "XUnity Resource Redirector",
+  "VersionNumber": "1.1.3",
+  "Description": "Library for replacing game assets on the fly",
+  "ShortDescription": "Library for replacing game assets on the fly",
+  "Authors": ["bbepis", "Vimek", "Jiwon-Park", "hype5"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/36346617?s=460&u=bd36be2406084c8c92ea0b5cd49642b44562b655&v=4",
+  "SourceUrl": "https://github.com/bbepis/XUnity.AutoTranslator",
+  "DownloadUrl": "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v4.14.0/XUnity.ResourceRedirector-BepIn-5x-1.1.3.zip",
+  "InstallationSteps": ["extract $GAME_DIR"],
+  "Dependencies": {
+    "BepInEx": "^5.4.5"
+  }
 }

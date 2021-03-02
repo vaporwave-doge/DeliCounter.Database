@@ -1,32 +1,32 @@
 [
-	{
-		"Name": "Tools",
-		"Description": "These mods provide extra tools or facilitate the loading of other types of mods.",
-		"Icon": "",
-		"Path": "Tools"
-	},
-	{
-		"Name": "Behaviour Mods",
-		"Description": "Mods which alter behaviour of the game without adding new content.",
-		"Icon": "",
-		"Path": "BehaviourMods"
-	},
-	{
-		"Name": "Custom Maps",
-		"Description": "Player-created maps.",
-		"Icon": "",
-		"Path": "CustomMaps"
-	},
-	{
-		"Name": "Custom Characters",
-		"Description": "Player-created Take and Hold characters.",
-		"Icon": "",
-		"Path": "CustomCharacters"
-	},
-	{
-		"Name": "Custom Objects",
-		"Description": "Player-created objects; weapons and more.",
-		"Icon": "",
-		"Path": "CustomObjects"
-	}
+  {
+    "Name": "Tools",
+    "Description": "These mods provide extra tools or facilitate the loading of other types of mods.",
+    "Icon": "",
+    "Path": "Tools"
+  },
+  {
+    "Name": "Behaviour Mods",
+    "Description": "Mods which alter behaviour of the game without adding new content.",
+    "Icon": "",
+    "Path": "BehaviourMods"
+  },
+  {
+    "Name": "Custom Maps",
+    "Description": "Player-created maps.",
+    "Icon": "",
+    "Path": "CustomMaps"
+  },
+  {
+    "Name": "Custom Characters",
+    "Description": "Player-created Take and Hold characters.",
+    "Icon": "",
+    "Path": "CustomCharacters"
+  },
+  {
+    "Name": "Custom Objects",
+    "Description": "Player-created objects; weapons and more.",
+    "Icon": "",
+    "Path": "CustomObjects"
+  }
 ]

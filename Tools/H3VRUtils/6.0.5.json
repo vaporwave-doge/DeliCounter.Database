@@ -1,17 +1,15 @@
 {
-	"Name": "H3VR Utils",
-	"VersionNumber": "6.0.5",
-	"Description": "Modding library for H3VR",
-	"ShortDescription": "Modding library for H3VR",
-	"Authors": ["Potatoes", "Frityet"],
-	"IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
-	"SourceUrl": "https://bonetome.com/h3vr/mods/160/",
-	"DownloadUrl": "https://bonetome.com/download.php?file=MTRmZjdkYWM4M2YzNDdmNCszNjUrODUx",
-	"InstallationSteps": [
-		"extract $GAME_DIR\\Mods"
-	],
-	"Dependencies": {
-		"BepInEx": "^5.4.5",
-		"Sideloader": "~0.3.3"
-	}
+  "Name": "H3VR Utils",
+  "VersionNumber": "6.0.5",
+  "Description": "Modding library for H3VR",
+  "ShortDescription": "Modding library for H3VR",
+  "Authors": ["Potatoes", "Frityet"],
+  "IconUrl": "https://alphafa.com/wp-content/uploads/2018/09/placeholder-square.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/160/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MTRmZjdkYWM4M2YzNDdmNCszNjUrODUx",
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Dependencies": {
+    "BepInEx": "^5.4.5",
+    "Sideloader": "~0.3.3"
+  }
 }

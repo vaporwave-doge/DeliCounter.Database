@@ -3,15 +3,11 @@
   "VersionNumber": "1.4.0",
   "Description": "Progress through each age of weaponry, from wild west to modern",
   "ShortDescription": "Progress through each age of weaponry, from wild west to modern",
-  "Authors": [
-    "devyndamonster"
-  ],
+  "Authors": ["devyndamonster"],
   "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
   "SourceUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/",
   "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/TimeTravelTimmy.zip",
-  "InstallationSteps": [
-    "move mods/TimeTravelTimmy.deli"
-  ],
+  "InstallationSteps": ["move mods/TimeTravelTimmy.deli"],
   "Dependencies": {
     "TNHTweaker": "^1.4.0"
   }

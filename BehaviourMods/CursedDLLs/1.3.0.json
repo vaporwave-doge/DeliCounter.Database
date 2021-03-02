@@ -1,16 +1,14 @@
 {
-	"Name": "Cursed DLLs",
-	"VersionNumber": "1.3.0",
-	"Description": "This is a collection of cursed game patches which break the game in fun ways.",
-	"ShortDescription": "Collection of cursed game patches",
-	"Authors": ["BlockBuilder57", "Drummerdude2003"],
-	"IconUrl": "https://avatars.githubusercontent.com/u/67712963?s=460&v=4",
-	"SourceUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx",
-	"DownloadUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx/releases/download/v1.3/CursedDlls.BepInEx_v1.3.zip",
-	"InstallationSteps": [
-		"extract $GAME_DIR"
-	],
-	"Dependencies": {
-		"BepInEx": "^5.4.5"
-	}
+  "Name": "Cursed DLLs",
+  "VersionNumber": "1.3.0",
+  "Description": "This is a collection of cursed game patches which break the game in fun ways.",
+  "ShortDescription": "Collection of cursed game patches",
+  "Authors": ["BlockBuilder57", "Drummerdude2003"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/67712963?s=460&v=4",
+  "SourceUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx",
+  "DownloadUrl": "https://github.com/drummerdude2003/CursedDlls.BepinEx/releases/download/v1.3/CursedDlls.BepInEx_v1.3.zip",
+  "InstallationSteps": ["extract $GAME_DIR"],
+  "Dependencies": {
+    "BepInEx": "^5.4.5"
+  }
 }

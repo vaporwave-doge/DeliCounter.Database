@@ -3,15 +3,11 @@
   "VersionNumber": "1.3.8",
   "Description": "It is my pleasure to bring you Meat's Magazines! I have knocked out dozens of magazines I wanted to see most in H3, and conveniently found all the assets...elsewhere online...\nThis update to Meat's Magazines adds literally another dozen or more magazines, I lost count honestly. That means more menus, more rounds, more fun!Now extended magazines have their own menu alongside miscellaneous magazines which I will continue to dump mags into as I make them.",
   "ShortDescription": "Large collection of new magazines",
-  "Authors": [
-    "Meat_banono"
-  ],
+  "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/QWPspDl.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/172/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MzZmNmEzNDZmNzJhNDdiMiszODErODkw",
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
   }

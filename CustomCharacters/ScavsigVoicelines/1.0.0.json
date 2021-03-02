@@ -3,15 +3,11 @@
   "VersionNumber": "1.0.0",
   "Description": "For the new PMC Pete character in Take and Hold Tweaker I give you Scavsig voicelines! All 335 voicelines hand picked by yours truly for the most vulgar, realistic, and hardcore Russian experience.",
   "ShortDescription": "For the new PMC Pete character in Take and Hold Tweaker",
-  "Authors": [
-    "Meat_banono"
-  ],
+  "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/ftba1y0.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/characters/172/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MWE4YTBkMTQ5ZDNhYzk5NiszODErODk3",
-  "InstallationSteps": [
-    "extract $GAME_DIR/Mods"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
   "Dependencies": {
     "Sideloader": "~0.3.3"
   }

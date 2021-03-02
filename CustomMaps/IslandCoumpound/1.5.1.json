@@ -1,16 +1,14 @@
 {
-	"Name": "Island Compound",
-	"VersionNumber": "1.5.1",
-	"Description": "Fight hotdogs on an island compound! 16 Hold points, 19 Supply points! This is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
-	"ShortDescription": "Island Coumpound map for H3VR",
-	"Authors": ["devyndamonster"],
-	"IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
-	"SourceUrl": "https://bonetome.com/h3vr/map/305/",
-	"DownloadUrl": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
-	"InstallationSteps": [
-		"extract $GAME_DIR\\CustomLevels\\TakeAndHold"
-	],
-	"Dependencies": {
-		"WurstMod": "^2.0.2"
-	}
+  "Name": "Island Compound",
+  "VersionNumber": "1.5.1",
+  "Description": "Fight hotdogs on an island compound! 16 Hold points, 19 Supply points! This is a custom map for Take & Hold by Devyndamonster, the layout encourages a lot of more outdoors, longer range engagements, though there are still plenty of areas for close-quarters combat which is where most holds occur.",
+  "ShortDescription": "Island Coumpound map for H3VR",
+  "Authors": ["devyndamonster"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
+  "SourceUrl": "https://bonetome.com/h3vr/map/305/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MmQ4OGI5MGZlZmRmYTA5ZSsrMTMyNw==",
+  "InstallationSteps": ["extract $GAME_DIR\\CustomLevels\\TakeAndHold"],
+  "Dependencies": {
+    "WurstMod": "^2.0.2"
+  }
 }

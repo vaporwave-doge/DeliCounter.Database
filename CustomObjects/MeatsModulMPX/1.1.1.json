@@ -3,15 +3,11 @@
   "VersionNumber": "1.1.1",
   "Description": "The long awaited and requested SIG MPX and MCX! With several possible attachments I just had to make it modular, so included in this mod are: \n\nFor the MCX: Caliber conversions for .300 Blackout and 5.56, 2 Handguard lengths, 3 Barrels, 4 stocks and a tube stock adapter.",
   "ShortDescription": "Modular MPX and MCX weapon pack",
-  "Authors": [
-    "Meat_banono"
-  ],
+  "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/BENXqyk.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/187/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZmZjNzFkZjA3NjM4NTI2NCszODErOTU1",
-  "InstallationSteps": [
-    "extract $GAME_DIR/VirtualObjects"
-  ],
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0"
   }

@@ -2,7 +2,7 @@
   {
     "Name": "Tools",
     "Description": "These mods provide extra tools or facilitate the loading of other types of mods.",
-    "Icon": "",
+    "Icon": "",
     "Path": "Tools"
   },
   {
@@ -14,19 +14,19 @@
   {
     "Name": "Custom Maps",
     "Description": "Player-created maps.",
-    "Icon": "",
+    "Icon": "",
     "Path": "CustomMaps"
   },
   {
     "Name": "Custom Characters",
     "Description": "Player-created Take and Hold characters.",
-    "Icon": "",
+    "Icon": "",
     "Path": "CustomCharacters"
   },
   {
     "Name": "Custom Objects",
     "Description": "Player-created objects; weapons and more.",
-    "Icon": "",
+    "Icon": "",
     "Path": "CustomObjects"
   }
 ]

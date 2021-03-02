@@ -41,7 +41,7 @@ Install Steps:
 * `move [location]`: Moves the downloaded file to the specified location. Example: `move mods/MyMod_0.2.5.deli`
 
 Version numbers and dependencies:
-* You can mark this mod's version as a beta by adding a `-` after the version number and then the beta name. e.g. `1.1.5-beta2`.
+* You can mark this mod's version as a beta by adding a `-` after the version number and then the beta name. e.g. `1.1.5-beta2`. These versions will only be visible to people who have opted in to seeing mod beta versions.
 * Dependencies are standard semantic version ranges. Place the GUID of the mod you need to install before yours on the left and then the required version number on the right.
 Generally you want to prefix the version number with a `^`.
 More complex rules can be found here: https://devhints.io/semver

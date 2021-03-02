@@ -1,15 +1,15 @@
 {
-	"Name": "Meat's SR",
-	"VersionNumber": "1.0.2",
-	"Description": "It's big toy time. If 7.62x51mm can be considered a toy. Anyways, the SR-25 is here and it's ModulAR compatible! This rifle is full power and lets you know it, but recovers quickly from its higher recoil once kitted out so pace your shots. \nIn this pack are:\nSR25\n10 and 20 round magazines (compatible with P762 magazines)\n457mm and 558mm barrels\n3 handguards\n2 insane muzzlebrakes\nPure recoil (you'll see what I mean when you install this)",
-	"ShortDescription": "Modular SR-25 weapon pack",
-	"Authors": ["Meat_banono"],
-	"IconUrl": "https://imgur.com/RCl5MPT.png",
-	"SourceUrl": "https://bonetome.com/h3vr/weapons/167/",
-	"DownloadUrl": "https://bonetome.com/download.php?file=YjQzZTQ1MTM2MDQ0ODg3MSszNjUrODgz",
-	"InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
-	"Dependencies": {
+  "Name": "Meat's SR",
+  "VersionNumber": "1.0.2",
+  "Description": "It's big toy time. If 7.62x51mm can be considered a toy. Anyways, the SR-25 is here and it's ModulAR compatible! This rifle is full power and lets you know it, but recovers quickly from its higher recoil once kitted out so pace your shots. \nIn this pack are:\nSR25\n10 and 20 round magazines (compatible with P762 magazines)\n457mm and 558mm barrels\n3 handguards\n2 insane muzzlebrakes\nPure recoil (you'll see what I mean when you install this)",
+  "ShortDescription": "Modular SR-25 weapon pack",
+  "Authors": ["Meat_banono"],
+  "IconUrl": "https://imgur.com/RCl5MPT.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/167/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YjQzZTQ1MTM2MDQ0ODg3MSszNjUrODgz",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
     "MeatsModuARParts": "^1.1.1",
-		"LSIIC": "^1.3.0"
-	}
+    "LSIIC": "^1.3.0"
+  }
 }

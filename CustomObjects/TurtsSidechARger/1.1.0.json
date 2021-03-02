@@ -1,0 +1,14 @@
+{
+  "Name": "Turt's SidechARger",
+  "VersionNumber": "1.1.0",
+  "Description": "Its a ModulAR receiver but you grab it by the bolt. \r\n\r\nShoot it. Reload it. ch-CHUNK.\r\n\r\n\r\n\r\nFound in Pistols - Lever Action Handguns\r\nUse with my ARParts mod to make it usable\r\n\r\nMany thanks Turtle for the model and idea!",
+  "ShortDescription": "Modular Sidecharging AR",
+  "Authors": ["Meat_banono", "PretendTurtle11"],
+  "IconUrl": "https://i.imgur.com/L99SoL0.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/184/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OTI3NTY5Y2ZlYThiMzZkNCsrOTQ2",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

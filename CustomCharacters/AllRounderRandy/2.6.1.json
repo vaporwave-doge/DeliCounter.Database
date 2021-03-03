@@ -1,12 +1,12 @@
 {
   "Name": "All Rounder Randy",
-  "VersionNumber": "2.6.1-test3",
+  "VersionNumber": "2.6.1",
   "Description": "The first custom character ever made (aside from Devyn's, of course...) is now the first on Bonetome! Unless someone else has snuck their way in before me.\nAll Rounder Randy is arguably the custom character which comes closest to vanilla gameplay, specifically Classic Loadout Louis, but features custom Sosigs and an altered progression, there is a lot less getting screwed over because your luck was bad, and you'll find things you never would've got in most other vanilla characters",
   "ShortDescription": "Vanilla-ish Take and Hold character",
   "Authors": ["Jessica"],
   "IconUrl": "https://i.imgur.com/A1fRJQZ.png",
   "SourceUrl": "https://bonetome.com/h3vr/characters/161/",
-  "DownloadUrl": "https://cdn.discordapp.com/attachments/764920339255132220/815623051499798588/All_Rounder_Randy_V2.6.1_TEST_3.zip",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDA4ZjhlOWU3NjczYjE5MiszODErODYw",
   "InstallationSteps": ["extract $GAME_DIR"],
   "Dependencies": {
     "TNHTweaker": "^1.4.0"

@@ -9,7 +9,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=YjQzZTQ1MTM2MDQ0ODg3MSszNjUrODgz",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
-    "MeatsModuARParts": "^1.1.1",
+    "MeatsModulARParts": "^1.1.1",
     "LSIIC": "^1.3.0"
   }
 }

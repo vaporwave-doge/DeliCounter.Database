@@ -1,0 +1,14 @@
+﻿{
+  "Name": "PMC Pete",
+  "VersionNumber": "1.2.1",
+  "Description": "Welcome To Tarkov!\n\nThis character is themed around the game Escape From Tarkov. Start out as a hatchet runner, and take on increasingly difficult enemies. Enemies can drop items and equipment. Additionally, each round has a chance for a scav boss to spawn as a patrol. These bosses are very difficult, but will always drop some kind of item.",
+  "ShortDescription": "Escape From Tarkov based TNH Character",
+  "Authors": ["devyndamonster"],
+  "IconUrl": "https://avatars.githubusercontent.com/u/6070388?s=460&v=4",
+  "SourceUrl": "https://bonetome.com/h3vr/characters/269/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZWM1MThmZTdiMzNmMDZkYiszODErMTIxNg==",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "TNHTweaker": "~1.5.0"
+  }
+}

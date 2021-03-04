@@ -9,6 +9,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=NDU1MzQwZmVkOTA4YmYzYyszODErODQ3",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
-    "LSIIC": "^1.3.0"
+    "LSIIC": "^1.3.0",
+    "ModulAR": "^1.0.1"
   }
 }

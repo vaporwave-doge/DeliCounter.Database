@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=NjM1ZTNhYmQ3ZGM3OTgyYyszNjUrMTAwNQ==",
   "InstallationSteps": ["move Mods/CompletelyFuckedCarl.deli"],
   "Dependencies": {
-    "TNHTweaker": "^1.4.0"
+    "TNHTweaker": "~1.4.0"
   }
 }

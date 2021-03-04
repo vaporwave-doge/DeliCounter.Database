@@ -9,6 +9,6 @@
   "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/ComradeKolbasa.zip",
   "InstallationSteps": ["move mods/ComradeKolbasa.deli"],
   "Dependencies": {
-    "TNHTweaker": "^1.4.0"
+    "TNHTweaker": "~1.4.0"
   }
 }

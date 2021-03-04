@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=OTI3NDIwMzcyMjJmNmRhNSszODErOTgw",
   "InstallationSteps": ["move mods/JohnWurst.deli"],
   "Dependencies": {
-    "TNHTweaker": "^1.4.0"
+    "TNHTweaker": "~1.4.0"
   }
 }

@@ -7,7 +7,7 @@
   "IconUrl": "https://i.imgur.com/1Wfs6EN.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/346/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCsyNDAxKzEzODk=",
-  "InstallationSteps": ["extract $GAME_DIR"],
+  "InstallationSteps": ["extract $GAME_DIR/CustomLevels/TakeAndHold"],
   "Dependencies": {
     "Deli": "^0.2.5"
   }

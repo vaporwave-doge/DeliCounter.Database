@@ -1,12 +1,12 @@
 {
   "Name": "Promeatheus",
-  "VersionNumber": "1.4.3",
+  "VersionNumber": "1.4.4",
   "Description": "Sci-fi themes map for Take and Hold",
   "ShortDescription": "Sci-fi themes map for Take and Hold",
   "Authors": ["NunSuperior"],
   "IconUrl": "https://avatars.githubusercontent.com/u/4492649?s=460&v=4",
   "SourceUrl": "https://bonetome.com/h3vr/map/198/",
-  "DownloadUrl": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMisrOTk4",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YmQ1ZWFmZjgzZWU3NzVmMiszODErOTk4",
   "InstallationSteps": ["extract $GAME_DIR\\Mods"],
   "Dependencies": {
     "WurstMod": "^2.0.2"

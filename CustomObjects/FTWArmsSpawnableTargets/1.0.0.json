@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms Spawnable Targets",
+  "VersionNumber": "1.0.0",
+  "Description": "Sick of waiting for gameplanner in order to live out your IPSC dreams? Well does FTW Arms have the mod for you! Extract this bad boy into your virtual objects, and take a look in the targets section of the item spawner for all your targety needs!",
+  "ShortDescription": "Spawnable targets for H3VR",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/tfFLxLq.jpeg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/355/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZGU2MDIwYTQyY2NhNjk0YSszODErMTQwNQ==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

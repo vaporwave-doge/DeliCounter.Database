@@ -10,7 +10,6 @@
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
     "LSIIC": "^1.3.0",
-    "MeatsModulARParts":"^1.1.1"
+    "MeatsModulARParts": "^1.1.1"
   }
 }
-

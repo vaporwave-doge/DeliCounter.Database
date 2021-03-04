@@ -1,5 +1,5 @@
 {
-  "LatestApplicationVersion": "0.1.9",
-  "UpdateText": "- Improved mod beta version handling",
-  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.1.9"
+  "LatestApplicationVersion": "0.1.10",
+  "UpdateText": "- Major UI improvements\n- Loads of general fixes",
+  "ReleaseLink": "https://github.com/Deli-Collective/Deli-Counter/releases/tag/v0.1.10"
 }

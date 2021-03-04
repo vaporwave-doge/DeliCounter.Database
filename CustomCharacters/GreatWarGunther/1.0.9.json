@@ -9,7 +9,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=OTE5NDUyYWJhMTRiMGRmYSszODErODYy",
   "InstallationSteps": ["move mods/GreatWarGunther.deli"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0",
+    "TNHTweaker": "~1.5.0",
     "DoomboxsGermanUniforms": "^1.1.1"
   }
 }

@@ -9,7 +9,7 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=ZTkyNjc1MzFjMDRjNmM5YyszODErOTc0",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0",
+    "TNHTweaker": "~1.5.0",
     "LSIIC": "^1.3.0"
   }
 }

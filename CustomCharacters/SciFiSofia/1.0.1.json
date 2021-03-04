@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=ZjNmZDcwNTRhZDVjYjI5YSszNjUrOTk3",
   "InstallationSteps": ["move mods/SciFiSofia.deli"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0"
+    "TNHTweaker": "~1.5.0"
   }
 }

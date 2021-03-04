@@ -9,6 +9,6 @@
   "DownloadUrl": "https://github.com/devyndamonster/TakeAndHoldTweaker/releases/download/v1.4.0/TimeTravelTimmy.zip",
   "InstallationSteps": ["move mods/TimeTravelTimmy.deli"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0"
+    "TNHTweaker": "~1.5.0"
   }
 }

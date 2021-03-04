@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=YmZlZDkzYWM4ZDZhMDE0MSszODErMTExMA==",
   "InstallationSteps": ["move mods/PistolPercy.deli"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0"
+    "TNHTweaker": "~1.5.0"
   }
 }

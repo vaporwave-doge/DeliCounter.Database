@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=MDEyYzgxYzQ1YTUyOTJlYSszODErODY2",
   "InstallationSteps": ["extract $GAME_DIR/Mods"],
   "Dependencies": {
-    "TNHTweaker": "~1.4.0"
+    "TNHTweaker": "~1.5.0"
   }
 }

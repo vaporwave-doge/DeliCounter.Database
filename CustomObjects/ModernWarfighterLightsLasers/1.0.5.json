@@ -1,0 +1,14 @@
+{
+  "Name": "Modern Warfighter Laser and Lights",
+  "VersionNumber": "1.0.5",
+  "Description": "A collection of modern weapon lights and lasers, with reworked effects for better-looking attachments.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nContains the following:\r\n\r\nEoTech NGAL\r\nEoTech AN\/PEQ-15 with BUIS\r\nSteiner DBAL-i2 with BUIS\r\nSteiner DBAL-A3\r\nZenitCo Perst4\r\nBE Meyers MAWL-C1+\r\nInforce APL\r\nInforce APLc\r\nInforce WML\r\nStreamlight TLR1-HL\r\nStreamlight TLR7\r\nSurefire M300C (Standard mount & Offset)\r\nSurefire M600V (Standard mount & Offset)\r\nSurefire M952V (Standard mount & Offset)\r\nSurefire X300U\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nThanks to:\r\n\r\n- Shampooh, Carkidd (assistance with implementation)\r\n- Melon (purchasing models)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWant a larger assortment of optics to play with? Check out the Modern Warfighter Optics mod here\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWant to support me, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\r\nhttps:\/\/ko-fi.com\/jayyden",
+  "ShortDescription": "Modern Weapon Lights and Lasers",
+  "Authors": ["Jayyden"],
+  "IconUrl": "https://i.imgur.com/3TLpj1x.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/308/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisrMTMzMw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

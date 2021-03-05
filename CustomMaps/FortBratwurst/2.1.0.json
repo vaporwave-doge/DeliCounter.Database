@@ -1,0 +1,14 @@
+{
+  "Name": "Fort Bratwurst",
+  "VersionNumber": "2.1.0",
+  "Description": "For my first Unity project, Ive built Fort Bratwurst, inspired by the drawing from u/GaPSMAV, with a few fun additions by me.",
+  "ShortDescription": "Sandbox range",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/kfURTF5.png",
+  "SourceUrl": "https://bonetome.com/h3vr/map/201/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzgwZGJiMmUwNDc3OGI5ZisrMTAxNQ==",
+  "InstallationSteps": ["extract $GAME_DIR/CustomLevels/Generic"],
+  "Dependencies": {
+    "WurstMod": "^2.0.2"
+  }
+}

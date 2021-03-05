@@ -1,0 +1,14 @@
+{
+  "Name": "Mk14 EBR RI",
+  "VersionNumber": "1.0.0",
+  "Description": "If you say someone can't have something, it just makes them want it more.\r\n\r\nI present the Mk14 Enhanced Battle Rifle, specifically the Rock Island Arsenal version ordered for the US Army from 2008-2011.\r\n\r\nThe EBR can be found under Battle Rifles and the DCSB under Rail Extenders.\r\n\r\nAlso includes the Sage Detachable Cantilever Sight Base, a rail extension designed to fit over the ejection port. I've made it attachable to any rail, so feel free to use it in whatever freaky creation you desire. \r\n\r\nFeatures \r\n\r\n-fully functional rails, including that weird one above the pistol grip\r\n-barrel\/suppressor mount - note that this removes both the muzzle brake and front irons, as they're integral to each other. No simple way around it other than some fuckery with a new front sight post, so use pic rail irons if you want. \r\n-glowing front sight that makes the irons actually usable\r\n-collapsible buttstock \r\n-AR-15 like button bolt release, unlike the base M14\r\n\r\n\r\nModel is from Tarkov. Props to their hard surface modeler. \r\n",
+  "ShortDescription": "Mk14 Enhanced Battle Rifle",
+  "Authors": ["Carkidd"],
+  "IconUrl": "https://i.imgur.com/u6MZHf5.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/169/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YzM2MTcyN2ZlYTRjNWRhNisrODg4",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

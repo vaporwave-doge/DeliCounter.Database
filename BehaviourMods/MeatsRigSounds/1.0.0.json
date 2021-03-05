@@ -1,0 +1,15 @@
+{
+  "Name": "Meat's Rig Sounds",
+  "VersionNumber": "1.0.0",
+  "Description": "One of my oldest mods, somehow never made it to Bonetome! I present: RigSounds! This replaces just about all sounds related to drawing and placing mags into quickbelt slots and is meant to give the feel of using a tactical rig with pouches and velcro galore.\nZiiiiip!\nNote: This replaces the magazine grabbing noise, so keep those mags spawnlocked and use that mag release button!\nInstallation: Just drag and drop into your mods folder!",
+  "ShortDescription": "New noises for quickbelts",
+  "Authors": ["meat_banono"],
+  "IconUrl": "https://i.imgur.com/SPgZ6D1.jpg?1",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/360/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MzhiMTJjNTg3NzE5ODZiNisrMTQxMQ==",
+  "InstallationSteps": ["extract $GAME_DIR\\Mods"],
+  "Dependencies": {
+    "BepInEx": "^5.4.5",
+    "Sideloader": "~0.3.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Gun Hook",
+  "VersionNumber": "1.0.0",
+  "Description": "It's a hook for hanging guns.\nMessage me on Discord at TylerS76#2974 if you encounter errors.",
+  "ShortDescription": "It's a hook for hanging guns",
+  "Authors": ["TylerS76"],
+  "IconUrl": "https://i.imgur.com/SOCpyfZ.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/54/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OGEzZmY1MGQ2MDQwYjI4NysrNDY4",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

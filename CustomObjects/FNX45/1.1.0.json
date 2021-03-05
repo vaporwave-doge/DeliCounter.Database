@@ -1,1 +1,14 @@
-
+{
+  "Name": "FN FNX-45 Tactical FDE and Black",
+  "VersionNumber": "1.1.0",
+  "Description": "The FNX-45 Tactical in FDE and now black, now for your VR shootin. Features of a full set of custom handling and firing sounds, as well as a LAM, suppressor, and working slide cap. Just bring any attachment near the slide cap to hide it and attach an optic or whatever else you'd like.\r\n\r\nGameplay video:\r\n\r\nhttps:\/\/youtu.be\/sDK3HncU-QQ\r\nSounds are a bit outdated, as I've remixed the action and firing sounds to be less loud and crunchy, though you can still hear the action when firing. That's my personal preference, but let me know what you think.\r\n\r\nModel by Sergey \"FMJ_3d\":\r\n\r\nhttps:\/\/fmj_3d.artstation.com\/\u200B\r\nSounds from the JSRS sounds Arma 3 mod:\r\n\r\nhttps:\/\/steamcommunity.com\/sharedfiles\/filedetails\/?id=861133494\r\nAnd a few from Modern Warfare 2019\r\n\r\nKnown issues:\r\n\r\n* The flashlight is very dim on most maps. This seems to currently just be a limitation of what we can do with the current modding tools, so for now there's not really anything I can do about it\r\n* The slide cap doesn't reappear after being hidden, not super sure why but not a big enough deal to hold the release back\r\n* MEATS doesn't properly recognize the weapon as a pistol\r\n* Some have reported being unable to vault the weapon, but I haven't been able to recreate this\r\n\r\nTo do:\r\n\r\n* Related to the above, the model's included Romeo pistol sight isn't implemented because right now there's no way to make custom optics. When folks smarter than me figure that out, I'll put it in here\r\n* Working magazine follower with H3VR Utilities, mostly dependent on me getting the time to go to my local rental place to check one out in person for some reference pictures\r\n* Different magazine capacities, so you can roleplay living in a state that sucks\r\n* FNX-9? And Osprey 9. Mostly depends on finding a good model for it, otherwise I'll just make an alternate version of this that can take 9mm",
+  "ShortDescription": "FNX-45 Tactical in FDE and Black",
+  "Authors": ["Shampooh"],
+  "IconUrl": "https://i.imgur.com/ljR78GR.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/265/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YWQwOTIxYzhiNTExNGRkYSsrMTE2Mw==",
+  "InstallationSteps": ["extract $GAME_DIR/Mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

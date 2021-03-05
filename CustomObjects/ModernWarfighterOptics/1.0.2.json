@@ -1,0 +1,14 @@
+{
+  "Name": "Modern Warfighter Optics",
+  "VersionNumber": "1.0.2",
+  "Description": "A collection of modern collimator optics meant for contemporary weapon systems in various sizes, shapes, and colors.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nContains the following attachments:\r\n\r\n- Aimpoint CompM5 (Offset, Low, and High mounts)\r\n- Aimpoint ACO (Straight, Cantilever, and Low mounts)\r\n- Aimpoint T2 (Offset, Low, and High mounts)\r\n- Aimpoint CompM4s\r\n- Aimpoint ACRO (Low and High mounts)\r\n- Eotech EXPS3 (Green and Red reticles)\r\n- SIG Romeo1 (Offset, Low, and High mounts)\r\n- SIG Romeo3 (Low and High mounts)\r\n- SIG Romeo4T (Low and High mounts in Black and FDE)\r\n- DOCTER SightIII (Offset, Low, and High mounts)\r\n- Trijicon MRO\r\n- Trijicon RMR (Offset, Low, and High mounts)\r\n- Trijicon SRO (Offset, Low, and High mounts)\r\n- Vortex Venom\r\n- Vortex StrikefireII\r\n- Vortex Crossfire\r\n- Leupold DeltaPoint (Offset, Low, and High mounts)\r\n\r\nCURRENT ISSUES:\r\nRed dots are dim, and cannot be zeroed - this is an issue based on the shader I have available for use as of this moment, unfortunately.\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nThanks to:\r\n- Melon (providing models)\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWanting more lights and lasers for your guns? Check out the Modern Warfighter Lights And Lasers mod\r\n\r\n- - - - - - - - - - - - - - - - - - - - - - - - -\r\n\r\nWant to support me, or otherwise feel like you have too much money burning a hole in your wallet? I now have a Ko-fi open for donations!\r\nhttps:\/\/ko-fi.com\/jayyden",
+  "ShortDescription": "Modern Collimator Optics",
+  "Authors": ["Jayyden"],
+  "IconUrl": "https://i.imgur.com/lUlB8GX.png",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/336/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsrMTM3Mw==",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

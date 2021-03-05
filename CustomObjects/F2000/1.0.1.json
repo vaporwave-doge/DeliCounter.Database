@@ -1,0 +1,14 @@
+{
+  "Name": "FN F2000 Tactical",
+  "VersionNumber": "1.0.1",
+  "Description": "Yes, the Tactical version of the infamous F2000.\r\n\r\nTop Rail, Side Rail and Suppressor Mount available.\r\n\r\nModel from ; P3DM\r\n\r\nF2000 Tactical is a proprietary of Fabrique National Herstal (FN Herstal).",
+  "ShortDescription": "Tactical F2000",
+  "Authors": ["LioZuto"],
+  "IconUrl": "https://i.imgur.com/hWRvpwV.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/118/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=OGE1ZWNjNGM0MzNlYjVhNCsrNjk5",
+  "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],
+  "Dependencies": {
+    "LSIIC": "^1.3.0"
+  }
+}

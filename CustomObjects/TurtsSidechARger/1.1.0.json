@@ -5,6 +5,7 @@
   "ShortDescription": "Modular Sidecharging AR",
   "Authors": ["Meat_banono", "PretendTurtle11"],
   "IconUrl": "https://i.imgur.com/L99SoL0.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/L99SoL0.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/184/",
   "DownloadUrl": "https://bonetome.com/download.php?file=OTI3NTY5Y2ZlYThiMzZkNCsrOTQ2",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

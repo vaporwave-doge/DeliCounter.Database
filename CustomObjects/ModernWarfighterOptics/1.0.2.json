@@ -5,6 +5,7 @@
   "ShortDescription": "Modern Collimator Optics",
   "Authors": ["Jayyden"],
   "IconUrl": "https://i.imgur.com/lUlB8GX.png",
+  "PreviewImageUrl": "https://i.imgur.com/lUlB8GX.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/336/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NmU0ZDBhZjAzYWZlMzk4NCsrMTM3Mw==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

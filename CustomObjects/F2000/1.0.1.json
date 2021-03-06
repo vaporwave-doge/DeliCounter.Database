@@ -5,6 +5,7 @@
   "ShortDescription": "Tactical F2000",
   "Authors": ["LioZuto"],
   "IconUrl": "https://i.imgur.com/hWRvpwV.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/hWRvpwV.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/118/",
   "DownloadUrl": "https://bonetome.com/download.php?file=OGE1ZWNjNGM0MzNlYjVhNCsrNjk5",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

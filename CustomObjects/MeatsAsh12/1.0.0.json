@@ -5,6 +5,7 @@
   "ShortDescription": "High Caliber Assault Submachine Gun",
   "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/a8uweYM.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/a8uweYM.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/267/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MGQ1OTVmZjQ5MGVjOWRiMSsrMTE2OQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

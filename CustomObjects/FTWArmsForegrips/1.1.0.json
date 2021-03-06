@@ -5,6 +5,7 @@
   "ShortDescription": "Foregrips pack",
   "Authors": ["Andrew_FTW", "Meat_banono"],
   "IconUrl": "https://i.imgur.com/rN0ftUm.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/rN0ftUm.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/242/",
   "DownloadUrl": "https://bonetome.com/download.php?file=M2MyODRlMWU4NWI5ZjE3MCsrMTEwOQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

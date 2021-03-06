@@ -5,6 +5,7 @@
   "ShortDescription": "Modular M4 weapon pack",
   "Authors": ["Meat_banono", "woofwoof4723"],
   "IconUrl": "https://i.imgur.com/tACZYlq.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/tACZYlq.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/188/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MGI3M2Y4ZGUwMjM5OWI2NyszODErOTYw",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

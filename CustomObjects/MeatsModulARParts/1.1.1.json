@@ -5,6 +5,7 @@
   "ShortDescription": "ModulAR expansion pack",
   "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/CSgjOcX.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/CSgjOcX.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/157/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NDU1MzQwZmVkOTA4YmYzYyszODErODQ3",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

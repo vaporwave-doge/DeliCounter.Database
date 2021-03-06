@@ -5,6 +5,7 @@
   "ShortDescription": "Mk14 Enhanced Battle Rifle",
   "Authors": ["Carkidd"],
   "IconUrl": "https://i.imgur.com/u6MZHf5.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/u6MZHf5.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/169/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YzM2MTcyN2ZlYTRjNWRhNisrODg4",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

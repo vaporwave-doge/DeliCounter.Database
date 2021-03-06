@@ -5,6 +5,7 @@
   "ShortDescription": "Build your own AR how you want it!",
   "Authors": ["KamikazeF0X"],
   "IconUrl": "https://i.imgur.com/d2J5dSF.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/d2J5dSF.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/159/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MjgxMDkxOThkYTE0Mjg4MCszODErODUw",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

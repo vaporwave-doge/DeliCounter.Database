@@ -5,6 +5,7 @@
   "ShortDescription": "Physical Gun Rack",
   "Authors": ["TylerS76"],
   "IconUrl": "https://i.imgur.com/zHE6Wxp.png",
+  "PreviewImageUrl": "https://i.imgur.com/zHE6Wxp.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/60/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YWJmOTkxZDNhOTRlNDhjOCsrNDc3",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

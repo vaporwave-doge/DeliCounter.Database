@@ -5,6 +5,7 @@
   "ShortDescription": "Muzzle devices pack",
   "Authors": ["woofwoof4723", "Meat_banono"],
   "IconUrl": "https://i.imgur.com/95yBxOV.png",
+  "PreviewImageUrl": "https://i.imgur.com/95yBxOV.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/273/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YTU3YTU4NjcyODc3MjYwNSsrMTIzNQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

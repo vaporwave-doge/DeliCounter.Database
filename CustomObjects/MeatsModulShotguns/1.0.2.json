@@ -5,6 +5,7 @@
   "ShortDescription": "Modular shotgun weapon pack",
   "Authors": ["Meat_banono", "Tacticalloon", "PretendTurtle11"],
   "IconUrl": "https://imgur.com/tAKnUSH.png",
+  "PreviewImageUrl": "https://imgur.com/tAKnUSH.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/271/",
   "DownloadUrl": "https://bonetome.com/download.php?file=OGZjMjdjNjkzNWM3NDkyZSsrMTIzMA==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

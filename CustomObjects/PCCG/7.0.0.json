@@ -5,6 +5,7 @@
   "ShortDescription": "Compiled custom gun collection",
   "Authors": ["Potatoes"],
   "IconUrl": "https://i.imgur.com/hzGU6x2.png",
+  "PreviewImageUrl": "https://i.imgur.com/hzGU6x2.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/142/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NGFmYTMxOWRjNmEwMTdhMSszODErNzUw",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

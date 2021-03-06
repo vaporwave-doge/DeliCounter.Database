@@ -5,6 +5,7 @@
   "ShortDescription": "Modular AK Weapon Pack",
   "Authors": ["meat_banono", "Nikpo", "Jayyden", "Andrew_FTW"],
   "IconUrl": "https://i.imgur.com/2BhLTcy.png",
+  "PreviewImageUrl": "https://i.imgur.com/2BhLTcy.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/342/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YzI4YTE3NTI0MjgzMGQ5MysrMTM4MQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

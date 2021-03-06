@@ -5,6 +5,7 @@
   "ShortDescription": "Spawnable targets for H3VR",
   "Authors": ["Andrew_FTW"],
   "IconUrl": "https://i.imgur.com/tfFLxLq.jpeg",
+  "PreviewImageUrl": "https://i.imgur.com/tfFLxLq.jpeg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/355/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZGU2MDIwYTQyY2NhNjk0YSszODErMTQwNQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

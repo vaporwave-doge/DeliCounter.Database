@@ -5,6 +5,7 @@
   "ShortDescription": "Gun Rack with quick belt slots",
   "Authors": ["TylerS76"],
   "IconUrl": "https://i.imgur.com/J9UxCK8.png",
+  "PreviewImageUrl": "https://i.imgur.com/J9UxCK8.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/53/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZDMyMmI4ZDJkYjkxNWYyNysrNDY3",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

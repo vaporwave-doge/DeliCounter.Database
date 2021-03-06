@@ -5,6 +5,7 @@
   "ShortDescription": "Modern Weapon Lights and Lasers",
   "Authors": ["Jayyden"],
   "IconUrl": "https://i.imgur.com/3TLpj1x.png",
+  "PreviewImageUrl": "https://i.imgur.com/3TLpj1x.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/308/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZTg2OGY5MWQ1NGU5YzBjMisrMTMzMw==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

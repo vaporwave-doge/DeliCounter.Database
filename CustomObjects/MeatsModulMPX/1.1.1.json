@@ -5,6 +5,7 @@
   "ShortDescription": "Modular MPX and MCX weapon pack",
   "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/BENXqyk.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/BENXqyk.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/187/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZmZjNzFkZjA3NjM4NTI2NCszODErOTU1",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

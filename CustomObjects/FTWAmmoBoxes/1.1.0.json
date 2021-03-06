@@ -5,6 +5,7 @@
   "ShortDescription": "Ammo Boxes",
   "Authors": ["Andrew_FTW"],
   "IconUrl": "https://i.imgur.com/IEKy3gP.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/IEKy3gP.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/301/",
   "DownloadUrl": "https://bonetome.com/download.php?file=NzkxNDc3YjkwMzkwZTUyNCsrMTMwNQ==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

@@ -5,6 +5,7 @@
   "ShortDescription": "FNX-45 Tactical in FDE and Black",
   "Authors": ["Shampooh"],
   "IconUrl": "https://i.imgur.com/ljR78GR.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/ljR78GR.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/265/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YWQwOTIxYzhiNTExNGRkYSsrMTE2Mw==",
   "InstallationSteps": ["extract $GAME_DIR/Mods"],

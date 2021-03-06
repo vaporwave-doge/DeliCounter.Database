@@ -5,6 +5,7 @@
   "ShortDescription": "Modular SR-25 weapon pack",
   "Authors": ["Meat_banono"],
   "IconUrl": "https://imgur.com/RCl5MPT.png",
+  "PreviewImageUrl": "https://imgur.com/RCl5MPT.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/167/",
   "DownloadUrl": "https://bonetome.com/download.php?file=YjQzZTQ1MTM2MDQ0ODg3MSszNjUrODgz",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

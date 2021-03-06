@@ -5,6 +5,7 @@
   "ShortDescription": "Large collection of new magazines",
   "Authors": ["Meat_banono"],
   "IconUrl": "https://i.imgur.com/QWPspDl.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/QWPspDl.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/170/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MzZmNmEzNDZmNzJhNDdiMisrODkw",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

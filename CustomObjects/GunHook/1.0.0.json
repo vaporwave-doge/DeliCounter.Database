@@ -5,6 +5,7 @@
   "ShortDescription": "It's a hook for hanging guns",
   "Authors": ["TylerS76"],
   "IconUrl": "https://i.imgur.com/SOCpyfZ.png",
+  "PreviewImageUrl": "https://i.imgur.com/SOCpyfZ.png",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/54/",
   "DownloadUrl": "https://bonetome.com/download.php?file=OGEzZmY1MGQ2MDQwYjI4NysrNDY4",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

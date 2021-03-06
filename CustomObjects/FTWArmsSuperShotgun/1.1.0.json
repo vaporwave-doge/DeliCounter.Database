@@ -5,6 +5,7 @@
   "ShortDescription": "Beefy Shotgun in 23×75mmR",
   "Authors": ["Andrew_FTW"],
   "IconUrl": "https://i.imgur.com/vyNSt6b.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/vyNSt6b.jpg",
   "SourceUrl": "https://bonetome.com/h3vr/weapons/282/",
   "DownloadUrl": "https://bonetome.com/download.php?file=MTBmNGQ1ZmZkYmVjODI0NCsrMTI2Mw==",
   "InstallationSteps": ["extract $GAME_DIR/VirtualObjects"],

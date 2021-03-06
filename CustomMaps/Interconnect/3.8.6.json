@@ -9,6 +9,6 @@
   "DownloadUrl": "https://bonetome.com/download.php?file=NjEyOWE4MWNlNTI3NTRiMCsyNDAxKzEzODk=",
   "InstallationSteps": ["extract $GAME_DIR/CustomLevels/TakeAndHold"],
   "Dependencies": {
-    "Deli": "^0.2.5"
+    "WurstMod": "^2.0.2"
   }
 }

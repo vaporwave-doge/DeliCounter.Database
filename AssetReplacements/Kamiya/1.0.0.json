@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kamiya",
+  "VersionNumber": "1.0.0",
+  "Description": "Because you can't spell 'assassin' without 'sass'.\n\nKamiya is a different type of TnH announcer. Rather than hearing an automaton buzz in your ear, the experience is more YOU playing as the character. It's not anything too crazy, but hey, it was fun making this pack, so I hope you enjoy.",
+  "ShortDescription": "Custom TNH Announcer",
+  "Authors": ["Sora101Ven"],
+  "IconUrl": "https://i.imgur.com/aUUySWb.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/206/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZGMzMzhmZGI0MGMyNTE5MSszODErMTAzMg==",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

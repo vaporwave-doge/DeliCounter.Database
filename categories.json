@@ -28,5 +28,11 @@
     "Description": "Player-created objects; weapons and more.",
     "Icon": "",
     "Path": "CustomObjects"
+  },
+  {
+    "Name": "Asset Replacements",
+    "Description": "Texture, sound and other asset replacements",
+    "Icon": "",
+    "Path": "AssetReplacements"
   }
 ]

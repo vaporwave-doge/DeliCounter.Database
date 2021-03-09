@@ -1,0 +1,15 @@
+{
+  "Name": "Scar Mk16 Carbon Fiber",
+  "VersionNumber": "1.0.0",
+  "Description": "Sleek carbon fiber Scar Mk16",
+  "ShortDescription": "Sleek carbon fiber Scar Mk16",
+  "Authors": ["nrgill28"],
+  "IconUrl": "https://i.imgur.com/Tpdnsuh.jpg",
+  "PreviewImageUrl": "https://i.imgur.com/Tpdnsuh.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/skins/43/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MDMzMDA1ZTQ2YWYxMmE0YyszODErNDM1",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

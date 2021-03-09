@@ -1,0 +1,14 @@
+﻿{
+  "Name": "P250 Asiimov",
+  "VersionNumber": "1.0.0",
+  "Description": "CS:GO Asiimov skin for the P250",
+  "ShortDescription": "CS:GO Asiimov skin for the P250",
+  "Authors": ["Kapitolist"],
+  "IconUrl": "https://i.imgur.com/5GQYHaM.png",
+  "SourceUrl": "https://bonetome.com/h3vr/skins/264/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDI5MDBkYjlhMDBjNDIzMCszODErMTE2Mg==",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}

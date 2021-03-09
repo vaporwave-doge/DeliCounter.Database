@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Lois D. Tall",
+  "VersionNumber": "1.0.0",
+  "Description": "So she does have a voice after all!\n\nThe icon that I've cherished since I was a kid, brought to life with the help of the website 15 AI! I would be super critical about how the idol would sound, but I think this hits the bill just fine!\n\nInstead of a monotone robot, this perfectly sane waifu will be there every step of the way! Totally on your side! All that good, fluffy stuff!",
+  "ShortDescription": "Custom TNH Announcer",
+  "Authors": ["Sora101Ven"],
+  "IconUrl": "https://i.imgur.com/EYvz28N.png",
+  "SourceUrl": "https://bonetome.com/h3vr/mods/205/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=YTJiZTYxNjI3MjA4NTUyNSszODErMTAzMQ==",
+  "InstallationSteps": ["extract $GAME_DIR/mods"],
+  "Dependencies": {
+    "Sideloader": "^0.3.3"
+  }
+}
